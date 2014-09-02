@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/skyemarine/holsteraid/ConsequenceImpl.java|com/skyemarine/holsteraid/CopyOfHolsterAid.java|com/skyemarine/holsteraid/CustomMainScreen.java|com/skyemarine/holsteraid/Event.java|com/skyemarine/holsteraid/FilePickerPopup.java|com/skyemarine/holsteraid/FormattedField.java|com/skyemarine/holsteraid/RichTextFormatter.java|com/skyemarine/holsteraid/HolsterAidConsequence.java|com/skyemarine/holsteraid/CopyOfHolsterAidListener.java|com/skyemarine/holsteraid/Options.java|com/skyemarine/holsteraid/HolsterAidListener.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/net.rim.ejde.BlackBerryVMInstallType/BlackBerry JRE 6.0.0"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
